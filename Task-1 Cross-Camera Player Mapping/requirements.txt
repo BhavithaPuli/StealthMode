@@ -1,9 +1,9 @@
 
-torch==2.5.1
-torchvision==0.20.1
-torchaudio==2.5.1
-ultralytics==8.2.14
-opencv-python==4.9.0.80
-scikit-learn==1.5.0
-numpy==2.1.2
-Pillow==11.0.0
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+torchaudio==2.5.1+cu121
+ultralytics
+opencv-python
+numpy
+scikit-learn
+Pillow
